@@ -1,0 +1,52 @@
+body {
+	background-image: url(../images/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+	color:white;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color:black;
+	background-color: white;
+	font-size: 18px;
+	margin-top: 0px;
+}
+
+
+.bio {
+	color: white;
+	font-size: 17px;
+}
+
+.me {
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	border: 7px solid rgba(255,255,255,.5);
+}
+
+.about {
+	width: 500px;
+	margin-top: 100px;	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+	background-color: rgba(0,0,0,.2);
+	border: 7px solid rgba(0,0,0,.1);
+
+}
